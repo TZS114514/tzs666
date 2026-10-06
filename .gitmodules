@@ -1,4 +1,0 @@
-[submodule "naiwa-pet"]
-	path = naiwa-pet
-	url = https://github.com/LynnShaw/naiwa-pet.git
-	branch = main
